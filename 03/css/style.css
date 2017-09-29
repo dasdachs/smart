@@ -102,6 +102,7 @@ input:focus {
 }
 
 .login-field {
+  border-bottom: 1px solid #CCC;
   margin-bottom: 30px;
   width: 80%;
 }

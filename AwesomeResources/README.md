@@ -2,15 +2,13 @@
 
 AwesomeResources is a currated list of resources to help you get a grip of the basics of web development with Python.
 
-The resources are grouped into three levels: **easy**, **medium** and **long** (yup, not hard :).
+Join our [Slack channel](https://smartninjaworkspace.slack.com). Email me for an invite!
 
 - [AwesomeResources](#awesome-resources)
-  - [HTML](#html)
-    -[easy](#html-easy)
-    -[medium](#html-medium)
-    -[long](#html-long)
+  - [General Web Development](#web-development)
+    -[Online Code Editors](#html-easy)
 
-## HTML
+## General Web Development
 
 ### Online Code editor
 

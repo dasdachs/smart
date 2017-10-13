@@ -1,12 +1,18 @@
-#! /usr/bin/evn python2
+#! /usr/bin/env python2
 # -*- coding: utf-8 -*- 
 import random
 
 
 SECRET = random.randint(0,20)
+
+
 def main():
     while True:
-        guess = int(raw_input("Ugani število med 1 in 20: "))
+        try:
+            guess = int(raw_input("Ugani število med 1 in 20: "))
+        except ValueError:
+            print "Si vnesel število? Probaj še enkrat."
+            continue
         if guess == SECRET:
             print "Pravilno, skrito število je bilo %d" % SECRET
             break

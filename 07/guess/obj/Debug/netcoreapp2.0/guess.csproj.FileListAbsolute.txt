@@ -1,0 +1,10 @@
+/Users/dasdachs/Dev/SmartNinja/07/guess/bin/Debug/netcoreapp2.0/guess.deps.json
+/Users/dasdachs/Dev/SmartNinja/07/guess/bin/Debug/netcoreapp2.0/guess.runtimeconfig.json
+/Users/dasdachs/Dev/SmartNinja/07/guess/bin/Debug/netcoreapp2.0/guess.runtimeconfig.dev.json
+/Users/dasdachs/Dev/SmartNinja/07/guess/bin/Debug/netcoreapp2.0/guess.dll
+/Users/dasdachs/Dev/SmartNinja/07/guess/bin/Debug/netcoreapp2.0/guess.pdb
+/Users/dasdachs/Dev/SmartNinja/07/guess/obj/Debug/netcoreapp2.0/guess.csproj.CoreCompileInputs.cache
+/Users/dasdachs/Dev/SmartNinja/07/guess/obj/Debug/netcoreapp2.0/guess.AssemblyInfoInputs.cache
+/Users/dasdachs/Dev/SmartNinja/07/guess/obj/Debug/netcoreapp2.0/guess.AssemblyInfo.cs
+/Users/dasdachs/Dev/SmartNinja/07/guess/obj/Debug/netcoreapp2.0/guess.dll
+/Users/dasdachs/Dev/SmartNinja/07/guess/obj/Debug/netcoreapp2.0/guess.pdb

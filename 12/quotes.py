@@ -21,7 +21,7 @@ def get_quotes(url, number_of_quotes=5):
     quotes = []
     number = number_of_quotes if number_of_quotes <= len(tags) else len(tags)
     for tag in range(number):
-        quotes.append(tags[tag].getText())
+        quotes.append(tags[tag].getText().strip())
     return quotes
 
 
@@ -41,7 +41,8 @@ if __name__ == "__main__":
         "http://quotes.yourdictionary.com/theme/marriage/",
         num
     )
-    print "Any minute now..."
+    print ""
+    print "... any minute now ..."
     print ""
     for quote in quotes:
         print quote + "\n"

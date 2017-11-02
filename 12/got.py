@@ -52,7 +52,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     season = args.season if args.season else 1
     print "Getting the data for season %d." % season
-    url = get_season(args.season)
+    url = get_season(season)
     viewers = get_viewers(url)
-    print "The total number of US viewers of GoT S %d is %.2f million." % (season,
+    print "The total number of US viewers of GoT S0%d is %.2f million." % (season,
                                                                            viewers)

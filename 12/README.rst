@@ -1,6 +1,6 @@
-###################################################
-Scraping Datai, SmartNinja Coding School Exercise 1
-###################################################
+####################################################
+Scraping Data, SmartNinja Coding School Exercise 12
+####################################################
 
 :author: Jani Šumak
 :date: 2017-11-1
@@ -29,7 +29,9 @@ Global install
 From your console type:
 
 ::
+  
   pip install -r requirements.txt
+
 
 Note: you can the dependencies from Pycharm.  
 
@@ -38,26 +40,27 @@ Virtual environment
 
 From you terminal run:
 
-#. Globally install `virtualenv`
+#. Globally install ``virtualenv``
 
 ::
+    
     pip install virtualenv
     
-#. Create a virtual environment `virtualenv venv`
+#. Create a virtual environment ``virtualenv venv``
 
 #. Activate the virtual environment
 
    *Windows*
 
-   `venv\scripts\activate`
+   ``venv\scripts\activate``
    
    *POSIX*
 
-   `source venv/bin/activate`
+   ``source venv/bin/activate``
 
    The name of your virtual environment should appear in the terminal: ``(venv)``.
 
-#. Install the dependencies within the virtual environment `pip install -r requirements.txt`.
+#. Install the dependencies within the virtual environment ``pip install -r requirements.txt``.
 
 Run the apps
 ============
@@ -65,6 +68,7 @@ Run the apps
 Run the apps with python
 
 ::
+    
     python got.py
 
 After you finish, deactivate you virtual environment `deactivate`.

@@ -1,0 +1,10 @@
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/obj/Debug/netcoreapp2.0/loto_generator.csproj.CoreCompileInputs.cache
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/obj/Debug/netcoreapp2.0/loto_generator.AssemblyInfoInputs.cache
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/obj/Debug/netcoreapp2.0/loto_generator.AssemblyInfo.cs
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/bin/Debug/netcoreapp2.0/loto_generator.deps.json
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/bin/Debug/netcoreapp2.0/loto_generator.runtimeconfig.json
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/bin/Debug/netcoreapp2.0/loto_generator.runtimeconfig.dev.json
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/bin/Debug/netcoreapp2.0/loto_generator.dll
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/bin/Debug/netcoreapp2.0/loto_generator.pdb
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/obj/Debug/netcoreapp2.0/loto_generator.dll
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_generator/obj/Debug/netcoreapp2.0/loto_generator.pdb

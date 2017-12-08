@@ -1,0 +1,10 @@
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/obj/Debug/netcoreapp2.0/menu.csproj.CoreCompileInputs.cache
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/obj/Debug/netcoreapp2.0/menu.AssemblyInfoInputs.cache
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/obj/Debug/netcoreapp2.0/menu.AssemblyInfo.cs
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/bin/Debug/netcoreapp2.0/menu.deps.json
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/bin/Debug/netcoreapp2.0/menu.runtimeconfig.json
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/bin/Debug/netcoreapp2.0/menu.runtimeconfig.dev.json
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/bin/Debug/netcoreapp2.0/menu.dll
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/bin/Debug/netcoreapp2.0/menu.pdb
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/obj/Debug/netcoreapp2.0/menu.dll
+/Users/dasdachs/Dev/SmartNinja/09/dotnet/menu/obj/Debug/netcoreapp2.0/menu.pdb

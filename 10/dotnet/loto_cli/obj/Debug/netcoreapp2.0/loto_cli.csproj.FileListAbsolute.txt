@@ -1,0 +1,10 @@
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/obj/Debug/netcoreapp2.0/loto_cli.csproj.CoreCompileInputs.cache
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/obj/Debug/netcoreapp2.0/loto_cli.AssemblyInfoInputs.cache
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/obj/Debug/netcoreapp2.0/loto_cli.AssemblyInfo.cs
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/bin/Debug/netcoreapp2.0/loto_cli.deps.json
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/bin/Debug/netcoreapp2.0/loto_cli.runtimeconfig.json
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/bin/Debug/netcoreapp2.0/loto_cli.runtimeconfig.dev.json
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/bin/Debug/netcoreapp2.0/loto_cli.dll
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/bin/Debug/netcoreapp2.0/loto_cli.pdb
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/obj/Debug/netcoreapp2.0/loto_cli.dll
+/Users/dasdachs/Dev/SmartNinja/10/dotnet/loto_cli/obj/Debug/netcoreapp2.0/loto_cli.pdb

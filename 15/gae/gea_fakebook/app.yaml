@@ -1,0 +1,19 @@
+runtime: python27
+api_version: 1
+threadsafe: yes
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico 
+
+- url: /css
+  static_dir: css/
+
+- url: /login.html
+  static_files: login.html
+  upload: login.html
+
+- url: /
+  static_files: index.html
+  upload: index.html

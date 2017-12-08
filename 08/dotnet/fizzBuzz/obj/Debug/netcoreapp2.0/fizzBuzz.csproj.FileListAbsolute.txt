@@ -1,0 +1,10 @@
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/obj/Debug/netcoreapp2.0/fizzBuzz.csproj.CoreCompileInputs.cache
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/obj/Debug/netcoreapp2.0/fizzBuzz.AssemblyInfoInputs.cache
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/obj/Debug/netcoreapp2.0/fizzBuzz.AssemblyInfo.cs
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/bin/Debug/netcoreapp2.0/fizzBuzz.deps.json
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/bin/Debug/netcoreapp2.0/fizzBuzz.runtimeconfig.json
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/bin/Debug/netcoreapp2.0/fizzBuzz.runtimeconfig.dev.json
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/bin/Debug/netcoreapp2.0/fizzBuzz.dll
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/bin/Debug/netcoreapp2.0/fizzBuzz.pdb
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/obj/Debug/netcoreapp2.0/fizzBuzz.dll
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/fizzBuzz/obj/Debug/netcoreapp2.0/fizzBuzz.pdb

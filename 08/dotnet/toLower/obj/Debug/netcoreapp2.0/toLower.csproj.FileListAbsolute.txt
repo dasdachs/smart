@@ -1,0 +1,10 @@
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/bin/Debug/netcoreapp2.0/toLower.deps.json
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/bin/Debug/netcoreapp2.0/toLower.runtimeconfig.json
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/bin/Debug/netcoreapp2.0/toLower.runtimeconfig.dev.json
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/bin/Debug/netcoreapp2.0/toLower.dll
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/bin/Debug/netcoreapp2.0/toLower.pdb
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/obj/Debug/netcoreapp2.0/toLower.csproj.CoreCompileInputs.cache
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/obj/Debug/netcoreapp2.0/toLower.AssemblyInfoInputs.cache
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/obj/Debug/netcoreapp2.0/toLower.AssemblyInfo.cs
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/obj/Debug/netcoreapp2.0/toLower.dll
+/Users/dasdachs/Dev/SmartNinja/08/dotnet/toLower/obj/Debug/netcoreapp2.0/toLower.pdb
